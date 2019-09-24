@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(240, 231, 114);
+}
+
+canvas {
+    border: 1px solid purple ;
+    border-bottom: 2px solid;
+}
